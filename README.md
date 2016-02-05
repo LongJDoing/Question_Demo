@@ -1,7 +1,7 @@
 # Question_Demo
 ## 1. Rapidjson File:
 **在ios崩溃的原因:**这个是你的转换代码里面的问题，和2dx引擎无关。下面这个函数
-'''c
+'''
     CCString* KSCCJsonRapid::jsonStringFromDictionary(CCDictionary *dic)
     {
         rapidjson::Value *value = KSCCJsonRapid::jsonValueFromDictionary(dic);
