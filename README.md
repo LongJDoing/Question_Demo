@@ -22,4 +22,4 @@
 ## 2. Shatter Effect File
 **PLIST**:<br>
 Texture format: PNG (.png)<br>
-Image format: RGBA4444<br?
+Image format: RGBA4444<br>
