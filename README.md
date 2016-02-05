@@ -20,3 +20,6 @@
 *传入函数。生成字符串后再释放就可以解决崩溃问题。*<br>
 
 ## 2. Shatter Effect File
+**PLIST**:
+Texture format: PNG (.png)<br>
+Image format: RGBA4444<br?
